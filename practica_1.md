@@ -143,7 +143,7 @@ Ingreso con mi usuario
 
 ![image](https://github.com/user-attachments/assets/1113cd20-a961-4f39-b015-c062d2c2e6c2)
 
-##Ahora haremos una instalación con LVM
+# Ahora haremos una instalación con LVM
 
 ![image](https://github.com/user-attachments/assets/6f03e693-05f6-49c9-b804-e930ea94e812)
 
@@ -176,11 +176,19 @@ Ingreso con mi usuario
 finalmente, ingresamos al usuario: yunlvm
 ![image](https://github.com/user-attachments/assets/8adc2962-1381-4765-abbc-d3c6acb47f69)
 
+# Verificando comandos
 
+sudo apt install lvm2
 
+![image](https://github.com/user-attachments/assets/40bca839-6fd2-490a-82f4-f86ff4cbf03c)
 
+sudo apt install xfsprogs
 
+![image](https://github.com/user-attachments/assets/acc0a407-f84d-4bd4-83f1-edb9f0b9d7a5)
 
+sudo apt install util-linux
+
+![image](https://github.com/user-attachments/assets/bde08015-a296-4a2c-8e9c-baed13230565)
 
 
 
