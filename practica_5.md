@@ -19,6 +19,19 @@
 5. Compilamos el kernel
 ![image](https://github.com/user-attachments/assets/fc56fc5d-7724-4c70-95fd-a61148fd250c)
 
-6. 
+6. Obtuve el siguiente error durante la compilación
+![image](https://github.com/user-attachments/assets/0936e3f4-65b3-4a63-83f2-b39c1560cb75)
+
+7.Instalando pahole 
+
+![image](https://github.com/user-attachments/assets/22c79739-cc97-4b8a-bc9c-05d554851e17)
+
+8. Re intentamos compilar el kernel
+![image](https://github.com/user-attachments/assets/4514069e-3e64-485d-9b53-f88b849423e4)
+
+9. Después de esperar, ha terminado de compilar
+![image](https://github.com/user-attachments/assets/2e11f55c-5a71-423f-bfd1-d1538c8d8ba3)
+
+10. 
 ..
 ![image](https://github.com/user-attachments/assets/acee4d77-40cc-427a-a33d-3142c7fc2ab8)
