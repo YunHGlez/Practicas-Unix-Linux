@@ -32,6 +32,16 @@
 9. Después de esperar, ha terminado de compilar
 ![image](https://github.com/user-attachments/assets/2e11f55c-5a71-423f-bfd1-d1538c8d8ba3)
 
-10. 
-..
-![image](https://github.com/user-attachments/assets/acee4d77-40cc-427a-a33d-3142c7fc2ab8)
+10. Ahora, instalamos los módulos
+![image](https://github.com/user-attachments/assets/c0e64e0e-1580-46e0-890a-1483f609a108)
+![image](https://github.com/user-attachments/assets/44036364-ed2d-4838-9fda-d75436b1935c)
+
+11. Entonces instalamos el kernel
+![image](https://github.com/user-attachments/assets/72bb180f-de5f-4042-83b0-984198e5add5)
+![image](https://github.com/user-attachments/assets/6ecd7930-0d01-40c3-96ae-52eac80412b0)
+
+12. Actualizamos el grub
+![image](https://github.com/user-attachments/assets/27b99de7-63ba-4e64-98cd-c398ba02122e)
+
+13. Tras reiniciar la máquina, verificanos la versión del kernel
+![image](https://github.com/user-attachments/assets/0d3b48ba-8454-48bb-b4cb-4bfcd687822e)
