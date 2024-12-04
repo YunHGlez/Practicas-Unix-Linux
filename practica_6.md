@@ -41,4 +41,12 @@
 13. Creamos las tablas en MariaDB
 ![image](https://github.com/user-attachments/assets/ea977dbf-f8bf-4b24-914f-23a46ea429b0)
 
-14. 
+14. Creamos y modificamos el archivo /etc/apache2/conf-available/phpmyadmin.conf
+![image](https://github.com/user-attachments/assets/bca7a1a3-6b08-4b8a-b82b-079e653990b9)
+
+15. Recargamos apache y lo configuramos
+![image](https://github.com/user-attachments/assets/b424ba70-23ad-4a2d-936f-277457bb87b7)
+
+16. Finalmente, accedemos a la página desde el navegador
+![image](https://github.com/user-attachments/assets/83eaa435-bf10-4836-8417-dfe0c67333ee)
+
