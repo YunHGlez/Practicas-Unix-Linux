@@ -35,4 +35,10 @@
 11. Modificamos el archivo de configuración
 ![image](https://github.com/user-attachments/assets/e48e0851-3db7-43c6-b87e-4ca211449623)
 
-12. 
+12. Generamos el usuario de requerido.
+![image](https://github.com/user-attachments/assets/d43640a8-f4e9-41a8-b31a-388f4ac365e2)
+
+13. Creamos las tablas en MariaDB
+![image](https://github.com/user-attachments/assets/ea977dbf-f8bf-4b24-914f-23a46ea429b0)
+
+14. 
